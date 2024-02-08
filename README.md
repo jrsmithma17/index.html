@@ -1,5 +1,5 @@
-<!DOCTYPE html> 
 <html> 
+  
   <head> 
     <meta charset="UTF-8"> 
     <meta name="description" content="This is my first website using HTML">
