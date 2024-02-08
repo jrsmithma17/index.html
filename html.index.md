@@ -1,25 +1,18 @@
 <!DOCTYPE html> 
 <html> 
   <head> 
-    <title>My First Webpage</title> 
     <meta charset="UTF-8"> 
-    <meta name="description" content="This is my first website. It includes lots of information about my life.">
+    <meta name="description" content="This is my first website using HTML">
   </head>
   <body>
     <h1>Welcome to my webpage</h1>
     <p>Welcome to <em>my</em> brand new website.</p>
-    <p>This site will be my <strong>jiggy</strong> home on the web.</p>
-    <a href="/page2.html">Page2</a> 
-    <img src="testpic.jpg" alt="This is a test image" height="42" width="42"> 
-    <p>This website will have the following benefits for my business:
+    <p>This site will be my <strong>parttime</strong> home on the web.</p> 
+    <p>This website will have Random information :
     </p>
     <ul>
-      <li>Increased traffic </li> 
-      <li>Global Reach</li> 
-      <li>Promotional Opportunities</li>
+      <li>Megantheestallion is #1 </li> 
+      <li>Love live laugh </li> 
+      <li>Try harder than yesterday </li>
     </ul> 
-    <table> 
-      <tr> 
-        <td>Row 1 - Column 1</td> <td>Row 1 - Column 2 </td> </tr> <tr> <td>Row 2 - Column 1</td> <td>Row 2 - Column 2</td> </tr> </table> </body> </html>
-
-Read more: https://html.com/#ixzz8R6yVQHS8
+  
