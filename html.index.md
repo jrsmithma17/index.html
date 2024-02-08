@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name= "JohnnyRay" content="width=device-width" />
 
-    <title>index html</title>
+  <h1>I love movie streaming !</h1>
   </head>
   <body>
   This is my new webpage 
