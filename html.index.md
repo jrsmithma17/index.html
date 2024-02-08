@@ -3,10 +3,16 @@
 <html lang="en-US">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>My test page</title>
+    <meta name= "JohnnyRay" content="width=device-width" />
+
+    
+    <title>index html</title>
   </head>
   <body>
-    <img src="images/firefox-icon.png" alt="My test image" />
+  This is my new webpage 
+   <img src "C:\Users\mrpre\OneDrive\Pictures\MeganTheeStallionForbesCover-780x1000.jpg">
+
+
+
   </body>
 </html>
