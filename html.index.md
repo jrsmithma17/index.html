@@ -10,7 +10,7 @@
   </head>
   <body>
   This is my new webpage 
-   <img src "C:\Users\mrpre\OneDrive\Pictures\MeganTheeStallionForbesCover-780x1000.jpg">
+  </img  "C:\Users\mrpre\OneDrive\Pictures\MeganTheeStallionForbesCover-780x1000.jpg">
 
 
 
